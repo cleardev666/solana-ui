@@ -109,7 +109,7 @@ const TRADING_STRATEGIES_COOKIE_KEY = 'tradingStrategies';
 const USER_COOKIE_KEY = 'user';
 
 // Encryption setup
-const ENCRYPTION_KEY = 'raze-bot-wallet-encryption-key';
+const ENCRYPTION_KEY = 'solana-bundler-wallet-encryption-key';
 const ENCRYPTED_STORAGE_KEY = 'encrypted_wallets';
 
 // Encryption helper functions
